@@ -38,6 +38,7 @@ gem "rb-fsevent", "0.9.8"
 # TODO: update after new release
 gem 'spina', ref: '2b2c8de5652de5844a40aa944c672e2f09cc36a0'
 
+gem "unicorn"
 gem "mediawiki_api"
 
 group :development, :test do
